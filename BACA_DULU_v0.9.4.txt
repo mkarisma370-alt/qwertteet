@@ -1,0 +1,62 @@
+KANTRI LEGEND 5v5 — v0.9.4 (Maulana Studio)
+===========================================
+
+ISI ZIP (aman dibagikan ke pemain)
+- KANTRI_LEGEND_v0.9.4.html  -> file game (buka di Chrome HP / PC).
+- BACA_DULU_v0.9.4.txt        -> file ini.
+
+FILE ADMIN (JANGAN DIBAGIKAN)
+- KL_Admin_Kode_TopUp.html versi baru dikirim terpisah. Isinya kunci rahasia
+  pembuat kode. Hanya untuk admin. Versi lama tidak bisa membuat Kode Redeem
+  dan paket Member Mingguan, jadi pakai yang baru.
+
+YANG BARU DI v0.9.4
+1.  Animasi gacha 3D baru: meteor jatuh ke altar rune, warnanya memberi petunjuk
+    (biru Langka, ungu Epik, merah Mythic, emas Legendaris), pilar cahaya,
+    petir, sayap, lalu kartu hasil membuka satu per satu.
+2.  Tombol "Arena langsung draft" dihapus.
+3.  Tombol Misi ada di samping Koleksi (dengan titik merah jika ada hadiah).
+4.  Tombol Profil di bawah dihapus (profil dibuka dari kartu nama kiri atas).
+5.  Tier baru MYTHIC 2,5%: efek recall, notifikasi kill, dan musik lobby.
+    Epik sekarang berisi emote, bingkai & gelar.
+6.  Musik Lobby: tombol "Gunakan" untuk lagu yang sudah dimiliki,
+    "Dapatkan" untuk yang belum.
+7.  Panduan dirombak (menu topik di kiri, kartu per bagian, topik baru:
+    Gacha & kosmetik, Akun & hadiah).
+8.  Ensiklopedia Item dirombak (kategori, filter tingkat, cari item, detail).
+9.  Akun baru: tutorial spin dengan 2 Kartu Spin + pilih 2 hero gratis.
+10. Kode Redeem 6 karakter (Menu -> Kode Redeem). Dibuat di file admin:
+    pilih Berlian, Kartu Spin, bonus, dan masa berlaku 1 jam - 7 hari.
+11. Pemutar Musik Lobby baru: piringan hitam berputar, visualizer, progres lagu,
+    tombol sebelumnya/putar/berikutnya, daftar lagu.
+12. 10 efek recall baru: Kristal Es, Kupu-kupu Cahaya, Kode Matrix, Pusaran Void,
+    Teratai Mekar, Hujan Meteor, Pelangi, Jam Waktu, Angin Topan, Motif Batik.
+13. Profil -> Koleksi: gelar Kolektor Pemula / Senior / Veteran / Terhormat
+    (naik di 25%, 50%, 75% koleksi).
+14. Lobby dirombak bergaya profesional (ikon baru, tombol Menu, lingkar level).
+15. Ganti nama: 350 Berlian (Profil -> Akun).
+16. Member Mingguan Rp25.000: 400 Berlian setiap hari selama 7 hari
+    (klaim di lobby/Toko, total 2.800 Berlian).
+17. Animasi pembuka pertandingan: layar VS kedua tim + hitung mundur 3-2-1.
+18. Tampilan rating pemain di akhir pertandingan diperbarui.
+19. Animasi naik peringkat baru (lencana, sinar, percikan).
+20. Laporkan Bug (Menu -> Laporkan Bug): pilih kategori, tulis masalah,
+    kirim lewat WhatsApp admin atau salin laporan. Info perangkat ikut otomatis.
+21. Fitur tambahan: Roda Harian (1x spin gratis tiap hari), Mode Foto
+    (pose, putar hero, simpan foto), Mastery Hero (lencana penguasaan hero).
+
+CATATAN ADMIN — KODE REDEEM
+- Kode redeem adalah kode promo bersama: satu kode bisa dibagikan ke banyak
+  pemain, tapi tiap akun hanya bisa memakainya sekali.
+- Karena hanya 6 karakter, hadiah dipilih dari daftar nilai yang tersedia
+  (Berlian 0 - 25.000, Kartu Spin 0 - 10, bonus fragmen/kepingan).
+- Setelah 5 kali salah kode, menu redeem terkunci 15 menit.
+- Kode top-up 16 karakter (KL9-...) juga bisa ditukar di menu yang sama.
+
+CATATAN ADMIN — MEMBER MINGGUAN
+- Pembeli membayar Rp25.000 lewat WhatsApp, lalu admin membuat kode top-up
+  paket "Member Mingguan" di file admin.
+
+DATA
+- Sebelum pindah ke file versi baru: Profil -> Data & Cadangan ->
+  Simpan Cadangan, lalu "Pulihkan dari cadangan" di layar masuk versi baru.
